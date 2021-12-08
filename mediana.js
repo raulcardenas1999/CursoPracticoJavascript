@@ -1,9 +1,15 @@
 const lista1 = [
-    100,
-    200,
     500,
-    4000000
+    4000000,
+    100,
+    200
 ];
+
+function comparar(a,b) {
+    return a - b;
+}
+
+lista1.sort(comparar);
 
 function calcularMediaAritmetica(lista) {
         const sumaLista = lista.reduce(
