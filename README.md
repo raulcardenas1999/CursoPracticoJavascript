@@ -16,3 +16,10 @@ Repositorio del curso basico de javascript!
 - Segundo paso: Implementar las fórmulas en Javascript
 - Tercer paso: crear funciones
 - Cuarto paso: Integrar Javascript con HTML
+
+## Taller #3: Promedio, Mediana y Moda
+
+- Primer paso: defininir las fórmulas
+- Segundo paso: Implementar las fórmulas en Javascript
+- Tercer paso: crear funciones
+- Cuarto paso: Integrar Javascript con HTML
