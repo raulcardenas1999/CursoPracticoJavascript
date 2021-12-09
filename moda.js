@@ -23,3 +23,11 @@ lista1.map(
         }
     }
 );
+
+const lista1Array = Object.entries(lista1Count).sort(
+    function(valorAcumulado,nuevoValor) {
+        return nuevoValor[1] - valorAcumulado[1];
+    }
+); // Nos permite convertir el objeto en array: entries
+
+const moda = lista1Array[0];
